@@ -124,7 +124,7 @@ int main(int argc, char *argv[])
      * 5. Skewer the winged beast
      * 6. Wield a fist of iron
      * 7. Raise hell
-     * 8. Freedom!!
+     * 8. Freedom!
      */
 
      // --1-- establish ssl connection using ssl_connect()
